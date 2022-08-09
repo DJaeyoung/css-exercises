@@ -1,0 +1,19 @@
+.normie {
+    background-color: #E7896C;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.bigger-norm {
+    font-size: 24px;
+}
+
+#big-blue {
+    color: #344CFA;
+    font-size: 36px;
+}
+
+#green-highlight {
+    background-color: #59D657;
+    font-size: 24px;
+    font-weight: bold;
+}
